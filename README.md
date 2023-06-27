@@ -3,6 +3,7 @@
 Final Project PAA 2
 
 ANALYSIS ALGORITHM
+
 A. Bubble Sort & Insertion Sort
 Untuk menganalisis algoritma Bubble Sort dan Insertion Sort dalam kasus terbaik (best case), terburuk (worst case), dan kasus rata-rata (average case), kita perlu mempertimbangkan kompleksitas waktu keduanya.
 
